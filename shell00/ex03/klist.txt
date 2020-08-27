@@ -1,0 +1,5 @@
+Credentials cache: API:75229758-61F8-406D-8DEF-BE4CCF2BF616
+        Principal: avarricc@42.FR
+
+  Issued                Expires               Principal
+Aug  5 14:45:56 2020  Aug 12 14:45:56 2020  krbtgt/42.FR@42.FR
